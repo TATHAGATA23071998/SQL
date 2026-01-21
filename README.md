@@ -6,7 +6,3 @@ Basics of SQL and application of SQL on projects
        alt="SQL SELECT Logical Execution Order"
        width="900">
 </p>
-
-# SQL
-
-Basics of SQL and application of SQL on projects.
