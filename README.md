@@ -6,3 +6,6 @@ Basics of SQL and application of SQL on projects
        alt="SQL SELECT Logical Execution Order"
        width="900">
 </p>
+
+
+- **[Datasets](https://www.kaggle.com/discussions/general/164772):** Project dataset (CSV files)
