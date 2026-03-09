@@ -49,7 +49,7 @@ END) OVER() AverageCleanedScore,
 AVG(Score) OVER() AverageCustomer
 FROM [Sales].[Customers]
 
---Count how many customers have placed an irder with sales greater than 30.
+--Count how many customers have placed an order with sales greater than 30.
 SELECT
     CustomerID,
     SUM(CASE 
